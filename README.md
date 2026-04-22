@@ -60,8 +60,11 @@ Este caso representa una evolución del concepto de metamedio. El VTuber habita 
 ## 4. Conclusión: La nueva cultura del software
 <div align="justify">
   
-*(En construcción)*
-  
+Tras analizar los casos de <b>Refik Anadol</b> y los <b>VTubers</b>, queda claro que la tesis de Lev Manovich en <i>El software toma el mando</i> es hoy más vigente que nunca. Si en mi análisis de la PEC 2 hablábamos de cómo la "lupa analógica" de mi padre se había convertido en un algoritmo, en esta etapa descubrimos que el software ya no solo nos ayuda a ver el mundo, sino que lo construye y lo habita a través de la <b>hibridación profunda</b>. <br><br>
+
+Tanto las esculturas de datos de Anadol como los avatares dinámicos de los VTubers demuestran que el <b>metamedio</b> es un organismo vivo. Ya no podemos separar la capa informática de la capa cultural: los datos se vuelven arte y el cuerpo humano se vuelve código en tiempo real. Esta evolución nos sitúa en un escenario donde la creatividad no depende únicamente del talento humano, sino de nuestra capacidad para operar y colaborar con interfaces de software complejas. <br><br>
+
+En definitiva, "Manovich Reloaded" no es solo una actualización de ejemplos; es la constatación de que el software es la gramática invisible que articula nuestra identidad y nuestra estética en el siglo XXI. Hemos pasado de una cultura de objetos fijos a una cultura de <b>procesos híbridos</b>, donde la única constante es la capacidad del software para seguir fusionando realidades. 
 </div>
 ---
 
