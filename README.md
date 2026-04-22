@@ -68,13 +68,26 @@ En definitiva, "Manovich Reloaded" no es solo una actualización de ejemplos; es
 </div>
 ---
 
-## 5. Licencia y Uso de IA
+## 5. Licencia y Bibliografía
 <div align="justify">
   
-Este trabajo se publica bajo una licencia **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Esto permite compartir y adaptar el contenido siempre que se reconozca la autoría y se mantenga la misma licencia.
+### Licencia
+Este trabajo se publica bajo una licencia **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Esta licencia permite la redistribución y la creación de obras derivadas siempre que se reconozca la autoría original y se distribuyan bajo la misma licencia.
 
+### Bibliografía
+* **Adell, F. (2024).** *Remediación, multimedia e hibridación: los principios de los nuevos medios*. Materiales UOC.
+* **Alberich, J. (2018).** *Elementos de la creatividad multimedia: apropiación, remediación, hibridación*. Materiales UOC.
+* **Gea, M. (2022).** *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Universidad de Granada.
+* **Manovich, L. (2013).** *El software toma el mando*. Barcelona: Editorial UOC.
+* **McMillan, R. (2012).** *Lord of the Files: How GitHub Tamed Free Software (and More)*. Wired.
+* **Resnick, M. (2007).** *All I Really Need to Know (About Creative Thinking) I Learned (by Studying How Children Learn) in Kindergarten*. MIT Media Lab.
+
+### Declaración de uso de IA
+Para la elaboración de este repositorio y el desarrollo del ensayo se ha utilizado **Gemini (Google)** como entorno de apoyo y consultoría digital. El uso de la herramienta se ha limitado a:
+1. Apoyo en la estructuración del formato **MarkDown** y diseño del repositorio en GitHub.
+2. Revisión sintáctica y de redacción para asegurar una narrativa fluida.
+3. Búsqueda de hitos bibliográficos complementarios.
+
+La **autoría intelectual**, la selección de los casos de estudio (Refik Anadol y VTubers), el análisis crítico basado en la teoría de Manovich y las reflexiones personales que conectan con las etapas anteriores de la asignatura son fruto exclusivo de mi autoría y pensamiento crítico.
 </div>
-
-**Declaración de uso de IA:** Para la elaboración de este repositorio se ha utilizado Gemini (Google) como apoyo en la estructuración del formato MarkDown y la revisión sintáctica de los textos, manteniendo la autoría intelectual y el enfoque crítico de los casos seleccionados en el estudiante.
-
 ---
