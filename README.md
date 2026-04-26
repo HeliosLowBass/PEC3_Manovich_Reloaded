@@ -35,6 +35,16 @@ Esta obra demuestra que el software ha tomado el mando de la creación artístic
 En definitiva, Anadol cumple con la profecía de Manovich: el software ha dejado de ser una herramienta de ayuda para convertirse en la gramática misma de la cultura visual contemporánea. Sus obras son el ejemplo perfecto de cómo los datos, cuando son procesados por algoritmos de aprendizaje profundo, mutan hacia una nueva forma de híbrido mediático que desafía nuestra percepción tradicional de la imagen fija y el vídeo lineal.
 </div>
 
+<div align="justify">
+Además de lo expuesto, en la obra <i>Unsupervised</i> la hibridación no es solo estética, sino estructural. El <b>aprendizaje automático</b> (machine learning) se convierte en una nueva interfaz de creación que permite una <b>variabilidad</b> infinita. Si Manovich hablaba de la modularidad en el software de edición, aquí la modularidad reside en los propios datos. Cada píxel generado es el resultado de una operación matemática que hibrida la historia del arte con el flujo de información del presente (clima, ruido, movimiento). Esto convierte a la pantalla en una entidad computacional que "alucina" en una hibridación profunda entre el código y la luz, demostrando que el software es ahora el creador de la gramática visual contemporánea.
+</div>
+
+**Recursos adicionales de Refik Anadol:**
+* [Web oficial del artista](https://refikanadol.com/)
+* [Análisis de 'Unsupervised' en ArtNews](https://www.artnews.com/art-news/news/refik-anadol-moma-unsupervised-ai-art-1234647345/)
+* ![Refik Anadol MoMA](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2ZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmJmN0PWc/3o7TKMGpx4LQCpMpHy/giphy.gif)
+*(Visualización de datos de Refik Anadol)*
+
 ---
 
 ## 3. Caso 2: VTubers - La identidad hibridada
@@ -54,6 +64,16 @@ Desde la óptica de El software toma el mando, el avatar de un VTuber no es solo
 <br><br>
 Este caso representa una evolución del concepto de metamedio. El VTuber habita un espacio donde el software de captura de movimiento, el motor de renderizado de videojuegos y la plataforma de comunicación (Twitch o YouTube) trabajan juntos para crear una nueva forma de cultura participativa. La identidad del individuo queda "remediada" por el código, permitiendo una libertad creativa que Manovich anticipó al hablar de cómo el software permitiría a los usuarios manipular los medios de formas antes imposibles. El cuerpo físico desaparece para dejar paso a un híbrido mediático que solo puede existir gracias a la potencia de procesamiento y a la lógica algorítmica de la cultura contemporánea.
 </div>
+
+<div align="justify">
+Por otro lado, la figura del VTuber es, esencialmente, una <b>identidad líquida</b>. El software transcodifica la capa biológica (movimiento ocular, boca, gestos) en una capa informática modular que puede ser alterada en tiempo real. Esta capacidad de cambio constante es lo que Manovich identifica como el triunfo del software sobre los medios fijos. El VTuber ya no es una "película de dibujos", sino un sistema de software que genera una identidad visual y social dinámica en el metamedio digital, permitiendo una libertad creativa que Manovich anticipó al hablar de cómo el software permitiría a los usuarios manipular los medios de formas antes imposibles mediante la lógica algorítmica.
+</div>
+
+**Recursos adicionales de VTubers:**
+* [Reportaje sobre la tecnología VTuber (BBC)](https://www.bbc.com/news/technology-54443120)
+* [VTube Studio - Web oficial del software](https://denchi.itch.io/vtube-studio)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vtubing_setup_diagram.png/640px-Vtubing_setup_diagram.png" width="500px">
+*(Diagrama de la hibridación entre el sujeto físico y el avatar digital)*
 
 ---
 
