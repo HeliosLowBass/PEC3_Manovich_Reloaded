@@ -34,16 +34,15 @@ Esta obra demuestra que el software ha tomado el mando de la creación artístic
 <br><br>
 En definitiva, Anadol cumple con la profecía de Manovich: el software ha dejado de ser una herramienta de ayuda para convertirse en la gramática misma de la cultura visual contemporánea. Sus obras son el ejemplo perfecto de cómo los datos, cuando son procesados por algoritmos de aprendizaje profundo, mutan hacia una nueva forma de híbrido mediático que desafía nuestra percepción tradicional de la imagen fija y el vídeo lineal.
 </div>
-
+<br><br>
 <div align="justify">
 Además de lo expuesto, en la obra <i>Unsupervised</i> la hibridación no es solo estética, sino estructural. El <b>aprendizaje automático</b> (machine learning) se convierte en una nueva interfaz de creación que permite una <b>variabilidad</b> infinita. Si Manovich hablaba de la modularidad en el software de edición, aquí la modularidad reside en los propios datos. Cada píxel generado es el resultado de una operación matemática que hibrida la historia del arte con el flujo de información del presente (clima, ruido, movimiento). Esto convierte a la pantalla en una entidad computacional que "alucina" en una hibridación profunda entre el código y la luz, demostrando que el software es ahora el creador de la gramática visual contemporánea.
 </div>
 
 **Recursos adicionales de Refik Anadol:**
 * [Web oficial del artista](https://refikanadol.com/)
-* [Análisis de 'Unsupervised' en ArtNews](https://www.artnews.com/art-news/news/refik-anadol-moma-unsupervised-ai-art-1234647345/)
-* ![Refik Anadol MoMA](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2ZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmJmN0PWc/3o7TKMGpx4LQCpMpHy/giphy.gif)
-*(Visualización de datos de Refik Anadol)*
+* [ROMPIENDO LAS BARRERAS DE LA REALIDAD EN UNSUPERVISED, LA EXPOSICIÓN DE REFIK ANADOL EN EL MOMA](https://es.artealdia.com/Noticias/ROMPIENDO-LAS-BARRERAS-DE-LA-REALIDAD-EN-UNSUPERVISED-LA-EXPOSICION-DE-REFIK-ANADOL-EN-EL-MOMA)
+
 
 ---
 
@@ -70,10 +69,9 @@ Por otro lado, la figura del VTuber es, esencialmente, una <b>identidad líquida
 </div>
 
 **Recursos adicionales de VTubers:**
-* [Reportaje sobre la tecnología VTuber (BBC)](https://www.bbc.com/news/technology-54443120)
 * [VTube Studio - Web oficial del software](https://denchi.itch.io/vtube-studio)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vtubing_setup_diagram.png/640px-Vtubing_setup_diagram.png" width="500px">
-*(Diagrama de la hibridación entre el sujeto físico y el avatar digital)*
+* [El fenómeno japonés VTuber](https://web-japan.org/trends/es/culture/202508_VTuber_es.html)
+
 
 ---
 
