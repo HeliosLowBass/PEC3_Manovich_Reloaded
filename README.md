@@ -79,7 +79,16 @@ Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ve
 <div align="justify">
 
 ### Licencia
-Este trabajo se publica bajo una licencia <b>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</b>. Esta licencia permite la redistribución y la creación de obras derivadas siempre que se reconozca la autoría original y se distribuyan bajo la misma licencia.
+<div align="justify">
+<b>Material:</b> Este repositorio y su ensayo han sido desarrollados bajo licencia <b>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</b>. 
+<br><br>
+<b>Imágenes y Multimedia:</b> Los recursos visuales incluidos (GIFs de Refik Anadol y VTubers) pertenecen a sus respectivos autores y se utilizan en este repositorio bajo el <b>Derecho de Cita con fines educativos</b> (Art. 32 LPI).
+ <br><br>
+<ul>
+  <li>Imágenes de Refik Anadol © Refik Anadol Studio.</li>
+  <li>Imágenes de VTubers © Wikimedia Commons / Streamers originales.</li>
+</ul>
+</div>
 
 ### Bibliografía
 * **Adell, F. (2024).** <i>Remediación, multimedia e hibridación: los principios de los nuevos medios</i>. Materiales UOC.
