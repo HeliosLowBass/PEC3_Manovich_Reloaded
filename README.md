@@ -69,7 +69,7 @@ El VTuber habita un espacio donde el software de captura, el motor de renderizad
 ## 4. Conclusión: El software como gramática cultural
 
 <div align="justify">
-Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ver el mundo, sino que lo construye a través de la <b>hibridación profunda</b>. Los datos se vuelven arte y el cuerpo humano se vuelve código. "Manovich Reloaded" es la constatación de que el software es la gramática invisible que articula nuestra identidad y estética en el siglo XXI. Hemos pasado de objetos fijos a <b>procesos híbridos</b>, donde la única constante es la capacidad del software para seguir fusionando realidades.
+Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ver el mundo, sino que lo construye a través de la <b>hibridación profunda</b>. Para llegar a estas conclusiones, he seguido un proceso de <b>pensamiento creativo</b> donde primero imaginé la relación entre estos nuevos medios, los creé en este entorno de GitHub para compartirlos con la comunidad y, finalmente, he reflexionado sobre cómo la transcodificación afecta a nuestra identidad. "Manovich Reloaded" es la constatación de que el software es la gramática invisible que articula nuestra estética en el siglo XXI. Hemos pasado de objetos fijos a <b>procesos híbridos</b>.
 </div>
 
 ---
