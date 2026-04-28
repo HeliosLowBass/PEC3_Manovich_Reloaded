@@ -31,11 +31,12 @@ Un concepto clave es la <b>variabilidad</b>. La obra nunca es la misma; está en
 
 **Recursos multimedia y enlaces:**
 * [Web oficial del artista](https://refikanadol.com/)
-* [Análisis: Rompiendo las barreras de la realidad en 'Unsupervised' (Arte al Día)](https://es.artealdia.com/Noticias/ROMPIENDO-LAS-BARRERAS-DE-LA-REALIDAD-EN-UNSUPERVISED-LA-EXPOSICION-DE-REFIK-ANADOL-EN-EL-MOMA)
-* ![Refik Anadol MoMA](https://media.giphy.com/media/3o7TKMGpx4LQCpMpHy/giphy.gif)
-
+* [Análisis: Rompiendo las barreras de la realidad (Arte al Día)](https://es.artealdia.com/Noticias/ROMPIENDO-LAS-BARRERAS-DE-LA-REALIDAD-EN-UNSUPERVISED-LA-EXPOSICION-DE-REFIK-ANADOL-EN-EL-MOMA)
+<br><br><div align="center">
+ ![Obra Unsupervised de Refik Anadol](Refik-Anadol-MoMA.gif)
+</div>
 <div align="justify">
-<i>Justificación multimedia: Se incluye este fragmento visual para materializar los principios de representación numérica y variabilidad. Como se analiza en el artículo de Arte al Día, el usuario puede observar cómo el dato algorítmico se transcodifica en una textura fluida en tiempo real, rompiendo la estática del archivo histórico.</i>
+<i>Justificación multimedia: Se incluye este fragmento visual para materializar los principios de representación numérica y variabilidad de Manovich. Como se analiza en el artículo de Arte al Día, el usuario observa cómo el dato algorítmico se transcodifica en una textura fluida en tiempo real, eliminando la frontera entre la capa informática y la capa cultural. (Fuente: Refik Anadol Studio).</i>
 </div>
 
 ---
