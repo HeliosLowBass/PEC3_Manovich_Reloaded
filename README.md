@@ -66,17 +66,7 @@ El VTuber habita un espacio donde el software de captura, el motor de renderizad
 
 ---
 
-## 4. Metodología: Espiral de Pensamiento Creativo
-
-Para este repositorio he aplicado la espiral de **Resnick** (2007) para asegurar un aprendizaje profundo:
-1. **Imaginar:** Seleccioné casos de hibridación que llevan al límite la teoría de Manovich.
-2. **Crear:** Documenté el ensayo en GitHub usando MarkDown para fomentar la modularidad.
-3. **Compartir:** El repositorio es abierto, permitiendo el **crowdsourcing** de ideas.
-4. **Reflexionar:** He integrado el feedback de la PEC 2 para no simplificar conceptos como la transcodificación.
-
----
-
-## 5. Conclusión: El software como gramática cultural
+## 4. Conclusión: El software como gramática cultural
 
 <div align="justify">
 Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ver el mundo, sino que lo construye a través de la <b>hibridación profunda</b>. Los datos se vuelven arte y el cuerpo humano se vuelve código. "Manovich Reloaded" es la constatación de que el software es la gramática invisible que articula nuestra identidad y estética en el siglo XXI. Hemos pasado de objetos fijos a <b>procesos híbridos</b>, donde la única constante es la capacidad del software para seguir fusionando realidades.
@@ -84,7 +74,7 @@ Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ve
 
 ---
 
-## 6. Licencia y Bibliografía
+## 5. Licencia y Bibliografía
 
 <div align="justify">
 
