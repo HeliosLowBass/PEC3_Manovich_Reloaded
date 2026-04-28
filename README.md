@@ -30,12 +30,12 @@ Un concepto clave es la <b>variabilidad</b>. La obra nunca es la misma; está en
 </div>
 
 **Recursos multimedia y enlaces:**
-* [Proyecto 'Unsupervised' en el MoMA](https://www.moma.org/calendar/exhibitions/5535)
-* [Análisis de la obra en ArtNews](https://www.artnews.com/art-news/news/refik-anadol-moma-unsupervised-ai-art-1234647345/)
-* ![Refik Anadol](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2ZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmZndmJmN0PWc/3o7TKMGpx4LQCpMpHy/giphy.gif)
+* [Web oficial del artista](https://refikanadol.com/)
+* [Análisis: Rompiendo las barreras de la realidad en 'Unsupervised' (Arte al Día)](https://es.artealdia.com/Noticias/ROMPIENDO-LAS-BARRERAS-DE-LA-REALIDAD-EN-UNSUPERVISED-LA-EXPOSICION-DE-REFIK-ANADOL-EN-EL-MOMA)
+* ![Refik Anadol MoMA](https://media.giphy.com/media/3o7TKMGpx4LQCpMpHy/giphy.gif)
 
 <div align="justify">
-<i>Justificación multimedia: Este GIF materializa el principio de representación numérica y variabilidad; el usuario ve cómo el dato se convierte en textura en tiempo real.</i>
+<i>Justificación multimedia: Se incluye este fragmento visual para materializar los principios de representación numérica y variabilidad. Como se analiza en el artículo de Arte al Día, el usuario puede observar cómo el dato algorítmico se transcodifica en una textura fluida en tiempo real, rompiendo la estática del archivo histórico.</i>
 </div>
 
 ---
@@ -53,12 +53,12 @@ El VTuber habita un espacio donde el software de captura, el motor de renderizad
 </div>
 
 **Recursos multimedia y enlaces:**
-* [Reportaje técnico sobre la tecnología VTuber (BBC)](https://www.bbc.com/news/technology-54443120)
-* [VTube Studio - Web oficial del software de hibridación](https://denchi.itch.io/vtube-studio)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vtubing_setup_diagram.png/640px-Vtubing_setup_diagram.png" width="550px">
+* [VTube Studio - Web oficial del software](https://denchi.itch.io/vtube-studio)
+* [Tendencias: El fenómeno japonés VTuber (Web Japan)](https://web-japan.org/trends/es/culture/202508_VTuber_es.html)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Vtubing_setup_diagram.png" width="550px">
 
 <div align="justify">
-<i>Justificación multimedia: Se incluye este diagrama técnico para ilustrar el proceso de transcodificación y la relación entre la capa física (sensores) y la capa informática (avatar), clave para entender la hibridación en tiempo real.</i>
+<i>Justificación multimedia: Este diagrama técnico es clave para comprender la relación entre la capa física (sensores del creador) y la capa informática (interfaz del avatar). Ilustra visualmente el proceso de transcodificación que analiza Web Japan, donde el sujeto biológico se convierte en un metamedio interactivo.</i>
 </div>
 
 ---
