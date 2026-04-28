@@ -56,10 +56,12 @@ El VTuber habita un espacio donde el software de captura, el motor de renderizad
 **Recursos multimedia y enlaces:**
 * [VTube Studio - Web oficial del software](https://denchi.itch.io/vtube-studio)
 * [Tendencias: El fenómeno japonés VTuber (Web Japan)](https://web-japan.org/trends/es/culture/202508_VTuber_es.html)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Vtubing_setup_diagram.png" width="550px">
+<br><br><div align="center">
+ ![Proceso de hibridación VTuber](Vtubers.gif)
+</div>
 
 <div align="justify">
-<i>Justificación multimedia: Este diagrama técnico es clave para comprender la relación entre la capa física (sensores del creador) y la capa informática (interfaz del avatar). Ilustra visualmente el proceso de transcodificación que analiza Web Japan, donde el sujeto biológico se convierte en un metamedio interactivo.</i>
+<i>Justificación multimedia: Se incluye este fragmento visual para ilustrar la transcodificación en tiempo real del sujeto físico al avatar digital. Se puede observar cómo el software de seguimiento facial y corporal convierte los gestos biológicos en datos numéricos que animan la interfaz modular del personaje, ejemplificando la hibridación profunda y la creación de un metamedio interactivo de los que habla Manovich.</i>
 </div>
 
 ---
