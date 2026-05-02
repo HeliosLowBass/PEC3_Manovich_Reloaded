@@ -81,33 +81,33 @@ Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ve
 
 ## 5. Licencia y Bibliografía
 
-<div align="justify">
-
 ### Licencia
 <div align="justify">
-<b>Material:</b> Este repositorio y su ensayo han sido desarrollados bajo licencia <b>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</b>. 
+<b>Material:</b> Este repositorio y su ensayo han sido desarrollados bajo licencia <b>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</b>.
 <br><br>
-<b>Imágenes y Multimedia:</b> Los recursos visuales incluidos (GIFs de Refik Anadol y VTubers) pertenecen a sus respectivos autores y se utilizan en este repositorio bajo el <b>Derecho de Cita con fines educativos</b> (Art. 32 LPI).
- <br><br>
+<b>Imágenes y Multimedia:</b><br><br> 
 <ul>
+  <li>Los recursos visuales de terceros (GIFs de Refik Anadol y VTubers) se utilizan bajo el <b>Derecho de Cita con fines educativos</b> (Art. 32 LPI).</li>
+  <li><b>Imagen de portada:</b> Generada mediante IA por el autor. Se libera bajo la misma licencia <b>CC BY-SA 4.0</b>.</li>
   <li>Imágenes de Refik Anadol © Refik Anadol Studio.</li>
   <li>Imágenes de VTubers © Wikimedia Commons / Streamers originales.</li>
 </ul>
 </div>
 
 ### Bibliografía
-* **Adell, F. (2024).** <i>Remediación, multimedia e hibridación: los principios de los nuevos medios</i>. Materiales UOC.
-* **Alberich, J. (2018).** <i>Elementos de la creatividad multimedia: apropiación, remediación, hibridación</i>. Materiales UOC.
-* **Gea, M. (2022).** <i>Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto</i>. Universidad de Granada.
-* **Manovich, L. (2013).** <i>El software toma el mando</i>. Barcelona: Editorial UOC.
-* **McMillan, R. (2012).** <i>Lord of the Files: How GitHub Tamed Free Software (and More)</i>. Wired.
-* **Resnick, M. (2007).** <i>All I Really Need to Know (About Creative Thinking) I Learned (by Studying How Children Learn) in Kindergarten</i>. MIT Media Lab.
+*   Adell, F. (2024). *Remediación, multimedia e hibridación: los principios de los nuevos medios*. Materiales UOC.
+*   Alberich, J. (2018). *Elementos de la creatividad multimedia: apropiación, remediación, hibridación*. Materiales UOC.
+*   Gea, M. (2022). *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Universidad de Granada.
+*   Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.
+*   McMillan, R. (2012). *Lord of the Files: How GitHub Tamed Free Software (and More)*. Wired.
+*   Resnick, M. (2007). *All I Really Need to Know (About Creative Thinking) I Learned (by Studying How Children Learn) in Kindergarten*. MIT Media Lab.
 
 ### Declaración de uso de IA
-Para la elaboración de este repositorio y el desarrollo del ensayo se ha utilizado <b>Gemini (Google)</b> como entorno de apoyo y consultoría digital. El uso de la herramienta se ha limitado a:
-1. Apoyo en la estructuración del formato <b>MarkDown</b> y diseño del repositorio en GitHub.
-2. Revisión sintáctica y de redacción para asegurar una narrativa fluida.
-3. Búsqueda de hitos bibliográficos complementarios.
+Para la elaboración de este repositorio y el desarrollo del ensayo se ha utilizado **Gemini (Google)** como entorno de apoyo y consultoría digital. El uso de la herramienta se ha limitado a:
+*   Apoyo en la estructuración del formato **MarkDown** y diseño del repositorio en GitHub.
+*   Revisión sintáctica y de redacción para asegurar una narrativa fluida.
+*   Búsqueda de hitos bibliográficos complementarios.
+*   **Generación de la imagen de portada conceptual:** Diseño de prompts específicos para visualizar la hibridación de los casos de estudio a través de la metáfora de la "mirada de Manovich".
 
-La <b>autoría intelectual</b>, la selección de los casos de estudio (Refik Anadol y VTubers), el análisis crítico basado en la teoría de Manovich y las reflexiones personales que conectan con las etapas anteriores de la asignatura son fruto exclusivo de mi autoría y pensamiento crítico.
+La **autoría intelectual**, la selección de los casos de estudio (Refik Anadol y VTubers), el análisis crítico basado en la teoría de Manovich y las reflexiones personales son fruto exclusivo de mi autoría y pensamiento crítico.
 </div>
