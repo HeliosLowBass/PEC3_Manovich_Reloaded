@@ -6,6 +6,11 @@
 **Recurso:** Ensayo sobre hibridación de software
 
 ---
+<div align="center">
+
+![Las gafas de Manovich: Refik Anadol y Vtubers](GafasManovich.png)
+ 
+</div>
 
 ## 1. Introducción: Del metamedio a la hibridación profunda
 
@@ -13,10 +18,6 @@
 Ponerse las gafas de Manovich para mirar estos casos obliga a ir más allá de una simple comparación ‘analógico vs digital’. En la anterior etapa de este viaje (PEC 2), analizamos cómo la "lupa analógica" de mi infancia se transformó en el algoritmo invisible de Google Earth a través de la <b>remediación</b>. Sin embargo, el software no solo se ha limitado a digitalizar medios antiguos. Como afirma Lev Manovich en <i>El software toma el mando</i> (2013), hemos entrado en la era del <b>metamedio</b>, donde las propiedades de medios anteriormente distintos se fusionan en lenguajes totalmente nuevos.
 <br><br>
 Para este ensayo, he seguido una filosofía de <b>escritura abierta</b> y <b>crowdsourcing</b> (Gea, 2022), utilizando este repositorio de GitHub no solo como almacén, sino como un espacio de creación colectiva bajo licencias Creative Commons. A continuación, exploro dos casos de <b>hibridación profunda</b>: el arte de datos de <b>Refik Anadol</b> y el fenómeno de los <b>VTubers</b>.
-</div>
-<br><br>
-<div align="center">
- ![Proceso de hibridación VTuber](Vtubers.gif)
 </div>
 
 ---
