@@ -14,6 +14,10 @@ Ponerse las gafas de Manovich para mirar estos casos obliga a ir más allá de u
 <br><br>
 Para este ensayo, he seguido una filosofía de <b>escritura abierta</b> y <b>crowdsourcing</b> (Gea, 2022), utilizando este repositorio de GitHub no solo como almacén, sino como un espacio de creación colectiva bajo licencias Creative Commons. A continuación, exploro dos casos de <b>hibridación profunda</b>: el arte de datos de <b>Refik Anadol</b> y el fenómeno de los <b>VTubers</b>.
 </div>
+<br><br>
+<div align="center">
+ ![Proceso de hibridación VTuber](Vtubers.gif)
+</div>
 
 ---
 
