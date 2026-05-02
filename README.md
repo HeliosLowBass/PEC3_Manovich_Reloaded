@@ -33,7 +33,7 @@ Desde la perspectiva de Manovich, la <b>transcodificación</b> es el principio p
 <br><br>
 Un concepto clave es la <b>variabilidad</b>. La obra nunca es la misma; está en un estado de cambio perpetuo al estar conectada a sensores externos. Esto rompe con la idea de la obra de arte como objeto terminado y la convierte en un proceso de software. En definitiva, Anadol cumple con la profecía de Manovich: el software ha dejado de ser una herramienta de ayuda para convertirse en la gramática misma de la cultura visual contemporánea, mutando hacia una nueva forma de híbrido mediático que desafía nuestra percepción tradicional de la imagen fija y el vídeo lineal.
 </div>
-
+<br><br>
 **Recursos multimedia y enlaces:**
 * [Web oficial del artista](https://refikanadol.com/)
 * [Análisis: Rompiendo las barreras de la realidad (Arte al Día)](https://es.artealdia.com/Noticias/ROMPIENDO-LAS-BARRERAS-DE-LA-REALIDAD-EN-UNSUPERVISED-LA-EXPOSICION-DE-REFIK-ANADOL-EN-EL-MOMA)
@@ -57,7 +57,7 @@ Desde la óptica de <i>El software toma el mando</i>, el avatar de un VTuber no 
 <br><br>
 El VTuber habita un espacio donde el software de captura, el motor de renderizado y la plataforma de comunicación trabajan de forma simbiótica en lo que Manovich llamaría un <b>metamedio</b>. La identidad queda <b>remediada</b> por el código, permitiendo una libertad creativa que permite manipular la imagen propia de formas antes imposibles. El cuerpo físico desaparece para dejar paso a un híbrido que solo existe gracias a la potencia de procesamiento. Finalmente, este caso nos obliga a reevaluar la relación entre usuario y pantalla: es una <b>identidad operativa</b> que interactúa en tiempo real, convirtiendo la propia identidad en un proceso de software fluido, modular y perpetuamente mutable.
 </div>
-
+<br><br>
 **Recursos multimedia y enlaces:**
 * [VTube Studio - Web oficial del software](https://denchi.itch.io/vtube-studio)
 * [Tendencias: El fenómeno japonés VTuber (Web Japan)](https://web-japan.org/trends/es/culture/202508_VTuber_es.html)
