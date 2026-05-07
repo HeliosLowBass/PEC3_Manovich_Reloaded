@@ -17,6 +17,8 @@
 <div align="justify">
 Ponerse las gafas de Manovich para mirar estos casos obliga a ir más allá de una simple comparación ‘analógico vs digital’. En la anterior etapa de este viaje (PEC 2), analizamos cómo la "lupa analógica" de mi infancia se transformó en el algoritmo invisible de Google Earth a través de la <b>remediación</b>. Sin embargo, el software no solo se ha limitado a digitalizar medios antiguos. Como afirma Lev Manovich en <i>El software toma el mando</i> (2013), hemos entrado en la era del <b>metamedio</b>, donde las propiedades de medios anteriormente distintos se fusionan en lenguajes totalmente nuevos.
 <br><br>
+<b>Esta estrategia de hibridación surge</b> en el momento en que los medios dejan de ser soportes físicos independientes para convertirse en datos numéricos. Al compartir un mismo "ADN digital", las técnicas que antes eran exclusivas de un medio (como el montaje cinematográfico o la interactividad del software) se pueden aplicar a cualquier otro, permitiendo que las propiedades de uno "colonicen" al otro. No es solo una mezcla, es una reconfiguración genética de los medios.
+<br><br>
 Para este ensayo, he seguido una filosofía de <b>escritura abierta</b> y <b>crowdsourcing</b> (Gea, 2022), utilizando este repositorio de GitHub no solo como almacén, sino como un espacio de creación colectiva bajo licencias Creative Commons. A continuación, exploro dos casos de <b>hibridación profunda</b>: el arte de datos de <b>Refik Anadol</b> y el fenómeno de los <b>VTubers</b>.
 </div>
 
@@ -76,7 +78,9 @@ El VTuber habita un espacio donde el software de captura, el motor de renderizad
 ## 4. Conclusión: El software como gramática cultural
 
 <div align="justify">
-Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ver el mundo, sino que lo construye a través de la <b>hibridación profunda</b>. Para llegar a estas conclusiones, he seguido un proceso de <b>pensamiento creativo</b> donde primero imaginé la relación entre estos nuevos medios, los creé en este entorno de GitHub para compartirlos con la comunidad y, finalmente, he reflexionado sobre cómo la transcodificación afecta a nuestra identidad. "Manovich Reloaded" es la constatación de que el software es la gramática invisible que articula nuestra estética en el siglo XXI. Hemos pasado de objetos fijos a <b>procesos híbridos</b>.
+Tras analizar estos casos, queda claro que el software ya no solo nos ayuda a ver el mundo, sino que lo construye a través de la <b>hibridación profunda</b>. Esta hibridación no es solo un proceso técnico invisible, sino que se manifiesta en lo que podemos considerar una nueva <b>estética híbrida</b>. En obras como las de Anadol o en la identidad de los VTubers, el resultado visual no es la suma de partes, sino un lenguaje nuevo: una estética donde la fluidez, la variabilidad y la transcodificación definen una belleza que no pertenece ni al mundo físico ni al digital puro, sino a la frontera operativa que los une.
+<br><br>
+Para llegar a estas conclusiones, he seguido un proceso de <b>pensamiento creativo</b> donde primero imaginé la relación entre estos nuevos medios, los creé en este entorno de GitHub para compartirlos con la comunidad y, finalmente, he reflexionado sobre cómo la transcodificación afecta a nuestra identidad. "Manovich Reloaded" es la constatación de que el software es la gramática invisible que articula nuestra estética en el siglo XXI. Hemos pasado de objetos fijos a <b>procesos híbridos</b>.
 </div>
 
 ---
